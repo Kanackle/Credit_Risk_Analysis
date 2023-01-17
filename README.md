@@ -6,7 +6,7 @@ The models were to predict if the loan was low risk or high risk based on the da
 
 ## Results
 0 -> high risk loans
-1 -> low risk loans
+1 -> low risk loans </br> </br>
 Naive Random Oversampling:
 <li>Accuracy: .645 </br>
 ![image](https://user-images.githubusercontent.com/33528884/212809937-ed40b5a3-e816-463d-9668-3c731d8f0a5d.png) </br>
