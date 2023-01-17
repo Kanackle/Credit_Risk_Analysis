@@ -1,10 +1,10 @@
 # Credit_Risk_Analysis
 
-##Purpose
+## Purpose
 The purpose of this analysis was to train various machine learning models on a sample database of credit card loans.
 The models were to predict if the loan was low risk or high risk based on the data given.
 
-##Results
+## Results
 0 -> high risk loans
 1 -> low risk loans
 Naive Random Oversampling:
@@ -26,5 +26,5 @@ Easy Ensemble:
 <li>Accuracy: .553 </br>
 ![image](https://user-images.githubusercontent.com/33528884/212810662-922e64a6-5224-4058-a6f7-4c490a9d4f14.png) </br>
 
-##Summary
+## Summary
 As can be shown from all the images, the precision score is less reliable than the recall score. The most accurate model is the Balanced Random Score. It has an accuracy score of .885 which triumphs all other accuracy scores of other models. It also has high sensitivity scores for both low risk and high risk loans. This means the majority of low and high risk loans were predicted correctly. 
